@@ -1,0 +1,97 @@
+body{
+background-color:#3CB371;
+    /*//position: relative;*/
+     font-family: 'Annie Use Your Telescope';
+}
+
+#loginCanvass
+{
+    line-height: 10px;
+    background-color: #F0F8FF;
+   /* text-align: center;
+    vertical-align: middle;*/
+    width: 33%;
+    height: 80%;
+    position: fixed;
+    margin-top: 5%;
+    margin-left: 33%;
+   /* position: absolute;*/
+}
+
+#companyName
+{
+
+    color: #BABABA;
+     font-size: 50px;
+    float: center;
+    text-align: center;
+}
+
+#tagline
+{
+    font-size: 30px;
+
+}
+
+#loginForm
+{
+    
+}
+
+#loginName
+{
+    width: 80%;
+    height: 8%;
+}
+
+#loginPassword
+{
+     width: 80%;
+    height: 8%;
+    margin-bottom: 40px;
+}
+
+#loginButton
+{
+    background-color:#3CB371;
+    color:  #F0F8FF;
+     width: 80%;
+    height: 8%;
+}
+#signupButton
+{
+    background-color:#3CB371;
+    color:  #F0F8FF;
+     width: 80%;
+    height: 8%;
+}
+#signupName
+{
+    width: 80%;
+    height: 8%;
+}
+
+#signupPassword
+{
+     width: 80%;
+    height: 8%;
+}
+
+#signupButton
+{
+    background-color:#3CB371;
+    color:  #F0F8FF;
+     width: 80%;
+    height: 8%;
+}
+
+#signupId
+{
+     width: 80%;
+    height: 8%;
+}
+
+label,input 
+{
+    margin-bottom: 20px;
+}
