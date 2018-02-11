@@ -1,0 +1,30 @@
+{
+  "name": "taratari",
+  "version": "1.0.0",
+  "description": "it is a website for food delivery ",
+  "main": "app.js",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.16.2",
+    "ws": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shantanu001/TaraTari.git"
+  },
+  "keywords": [
+    "food",
+    "delivery",
+    "online"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shantanu001/TaraTari/issues"
+  },
+  "homepage": "https://github.com/Shantanu001/TaraTari#readme"
+}
